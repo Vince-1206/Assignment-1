@@ -3,7 +3,7 @@
 
 Assignment 1 for CP1404/CP5632, IT@JCU
 
-By: _Your Name_
+By: _Lin, Han-Wei_
 
 This repo contains starter files including a Python file and two CSV files.  
 `songs.csv` is a data file for you to use.  
@@ -16,8 +16,11 @@ the `answer...` parts).
 
 1. How long did the entire project (assignment 1) take you?
 
-   > answer...
+   > I have spent almost 10 days for assignment 1. For the first 3 days, I have try to focus on the option and list. 
+I am try to complete to basis code. Next 5 days, I try to run and the fix the bug. Now the next 2 days, I will try to do 
+make the code better. 
 
 2. What do you plan to do differently in your development process for assignment 2?
 
-   > answer...
+   >  For the assignment 2, I will plan to ask for help. Because during assignment 1, I take 
+so long to understand about how to fix the bugs and connect with GitHub. Also, I will turn in the assignment earlier.
